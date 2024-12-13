@@ -8,8 +8,8 @@
 
   : 'console' 입력 시 오타가 있을 때 나타나는 에러.
 
-  ```
-  consle.log('Hello World')
+  ```javascript
+  consle.log('Hello World');
   ```
 
   <br>
@@ -18,8 +18,8 @@
 
   : 기능 이름에 오타가 있을 때 나타나는 에러.
 
-  ```
-  console.lg('Hello World')
+  ```javascript
+  console.lg('Hello World');
   ```
 
   <br>
@@ -28,7 +28,7 @@
 
   : 괄호를 빼먹었을 때 나타나는 에러.
 
-  ```
+  ```javascript
   console.log('Hello World'
   ```
 
@@ -38,7 +38,7 @@
 
   : 규칙에 따라 나와야 하는 요소가 나오지 않았을 때 나타나는 에러.
 
-  ```
+  ```javascript
   console.log('Hello World)
   ```
 
